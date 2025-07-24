@@ -604,6 +604,7 @@ org.eclipse.microprofile.jwt:microprofile-jwt-auth-api
 org.eclipse.microprofile.openapi:microprofile-openapi-api
 org.eclipse.microprofile.reactive-streams-operators:microprofile-reactive-streams-operators-api
 org.eclipse.microprofile.reactive-streams-operators:microprofile-reactive-streams-operators-core
+org.foundationdb:fdb-java
 org.hibernate.validator:hibernate-validator
 org.immutables:builder
 org.immutables:value-annotations

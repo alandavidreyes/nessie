@@ -57,6 +57,8 @@ public interface VersionStoreConfig {
     JDBC2,
 
     BIGTABLE,
+
+    FOUNDATIONDB
   }
 
   /** Sets which type of version store to use by Nessie. */
